@@ -30,8 +30,8 @@
 
 
 - 👋 Hi, I’m @hoonyhoney
-- 👀 I’m interested in ...BackEnd & Android
-- 🌱 I’m currently learning ...Spring Security, JPA,Docker,JENKINS ,Flutter
+- 👀 I’m interested in ...JAVA & SPRING BOOT
+- 🌱 I’m currently learning ...JAVA, Spring,JPA,Docker,CI/CD, Prometheus,Grafana
 - 📫 How to reach me ...honeyhoeny@gmail.com
 
 
