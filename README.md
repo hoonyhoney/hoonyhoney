@@ -1,4 +1,5 @@
-👋 Hi There, I’m DOGNHUN
+👋 Hi There, I’m DOGNHUN  </br>
+สวสดีครับ ผมชื่อ "DONGHUN" ครับยินดีที่ได้รู้จัก
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-004466?style=flat&logo=Java&logoColor=white" />
